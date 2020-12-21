@@ -15,6 +15,6 @@ public class Calc {
 	public static void main(String[] args) {
 		System.out.println("Sum= "+add(10,20));
 		System.out.println("Difference= "+sub(70,20));
-		System.out.println("Difference= "+prod(10,20));
+		System.out.println("Product= "+prod(10,20));
 	}
 }
